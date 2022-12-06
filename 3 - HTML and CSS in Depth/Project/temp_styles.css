@@ -3,8 +3,8 @@ body {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin-top: 3rem;
     margin-bottom: 3rem;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 0.05;
+    margin-right: 0.05;
 }
 
 h1 {
@@ -16,7 +16,6 @@ h2 {
 }
 
 header > img {
-    width: 55%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -45,8 +44,4 @@ footer {
 
 footer div {
     flex: 1;
-}
-
-footer img {
-    width: 65%;
 }
